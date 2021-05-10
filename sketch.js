@@ -10,7 +10,7 @@ var engine, world;
 var rand;
 var drop;
 var drops=[];
-var maxDrops=10000;
+var maxDrops=500;
 
 
 
